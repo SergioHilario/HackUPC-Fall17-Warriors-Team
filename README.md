@@ -19,8 +19,8 @@ Of course, accomplishing all the objectives mentioned above in an only hackathon
 
 ## Most straightforward further developments
 * Punctuation/recompense system
-* Library theme categorization 
 * Configurable settings (frequency of the notifications, library choosing, etc)
+
 ## License
 Unless otherwise stated, all material is licensed under a  Creative Commons Attribution-ShareAlike 3.0 License (<https://creativecommons.org/licenses/by-sa/3.0/>). This means you are free to copy, distribute and transmit the work, adapt it to your needs as long as you cite its origin and, if you do redistribute it, do so under the same license.
 
