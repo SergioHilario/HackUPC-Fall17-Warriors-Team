@@ -21,9 +21,8 @@ Of course, accomplishing all the objectives mentioned above in an only hackathon
 Unless otherwise stated, all material is licensed under a  Creative Commons Attribution-ShareAlike 3.0 License (<https://creativecommons.org/licenses/by-sa/3.0/>). This means you are free to copy, distribute and transmit the work, adapt it to your needs as long as you cite its origin and, if you do redistribute it, do so under the same license.
 
 ## References
-* 
+* The app implements a direct reply notification system obtained from: https://github.com/segunfamisa/android-nougat-notification
 
-*
 
 # Acknowledgements and hackathon experience
 We would like to thank the HackUPC organizers, sponsors and volunteers for this experience. We have learnt a lot from the hacking and coding world, as well as some java programming language and how to use the Android Studio environment. We enjoyed this experience a lot and we hope to repeat it in the future.
