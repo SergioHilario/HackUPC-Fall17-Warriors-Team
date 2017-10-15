@@ -17,6 +17,11 @@ In the long run, the idea is to build an open platform where the app is integrat
 ## Delivered demo
 Of course, accomplishing all the objectives mentioned above in an only hackathon was beyond our possibilities. Instead, what we did is a proof of principle of how the app would work. Using Android Studio, we have developed an Android app where you can build your own library of words along with their corresponding definitions/translations. The app records this information, and periodically sends a push notification asking the user the definition/translation corresponding to one of the words saved in the library. Thus, the main function of this app is helping to remember those tricky words that we confuse or forget.
 
+### Version 1
+Test version of the MemoHack where notifications appear via a button click.
+### Version 2
+Final beta version of the MemoHack where notifications appear sporadically.
+
 ## Most straightforward further developments
 * Punctuation/recompense system
 * Library editing
