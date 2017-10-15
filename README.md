@@ -4,7 +4,7 @@ Project members: Josep Castell Queralt, Sergio Hilario Martínez Mateu, Alejandr
 ## About us
 We are a group of physicists and mathematicians that have a solid background in mathematical modelling. We started this HackUPC without previous knowledge on software development, java language or the plataform Android Studio. Despite this, our objective when we joined the HackUPC was to learn how to develop a mobile app.
 
-# Project description
+# Project description: Android app "MemoHack"
 ## Motivation and objectives
 Our objective (at long term), is to develop an app were you can build libraries with words or concepts, along with their corresponding definitions or any brief description. For exemple a biologist could build a library with a bunch of proteins, and their respective chemical composition.
 
