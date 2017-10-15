@@ -17,6 +17,14 @@ In the long run, the idea is to build an open platform where the app is integrat
 ## Delivered demo
 Of course, accomplishing all the objectives mentioned above in an only hackathon was beyond our possibilities. Instead, what we did is a proof of principle of how the app would work. Using Android Studio, we have developed an Android app where you can build your own library of words along with their corresponding definitions/translations. The app records this information, and periodically sends a push notification asking the user the definition/translation corresponding to one of the words saved in the library. Thus, the main function of this app is helping to remember those tricky words that we confuse or forget.
 
+## License
+Unless otherwise stated, all material is licensed under a Creative Commons Attribution-ShareAlike 3.0 License. This means you are free to copy, distribute and transmit the work, adapt it to your needs as long as you cite its origin and, if you do redistribute it, do so under the same license.
+
+## References
+* 
+
+*
+
 # Acknowledgements and hackathon experience
 We would like to thank the HackUPC organizers, sponsors and volunteers for this experience. We have learnt a lot from the hacking and coding world, as well as some java programming language and how to use the Android Studio environment. We enjoyed this experience a lot and we hope to repeat it in the future.
 
