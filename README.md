@@ -19,6 +19,7 @@ Of course, accomplishing all the objectives mentioned above in an only hackathon
 
 ## Most straightforward further developments
 * Punctuation/recompense system
+* Library editing
 * Configurable settings (frequency of the notifications, library choosing, etc)
 
 ## License
