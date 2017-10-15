@@ -1,4 +1,4 @@
-# HackUPC (Fall-2017) warriors team's repository.
+# HackUPC (Fall-2017) Warriors team's repository.
 Project members: Josep Castell Queralt, Sergio Hilario Martínez Mateu, Alejandro Molero Casanova, Daniel Salgado Rojo
 
 ## About us
