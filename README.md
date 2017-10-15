@@ -2,7 +2,7 @@
 Project members: Josep Castell Queralt, Sergio Hilario Martínez Mateu, Alejandro Molero Casanova, Daniel Salgado Rojo
 
 ## About us
-We are a group of physicists and mathematicians that have a solid background in mathematical modelling. We started this HackUPC without previous knowledge on software development, java language neither the plataform Android Studio. Despite this, our objective when we joined the HackUPC was to learn how to develop a mobile app.
+We are a group of physicists and mathematicians that have a solid background in mathematical modelling. We started this HackUPC without previous knowledge on software development, java language or the plataform Android Studio. Despite this, our objective when we joined the HackUPC was to learn how to develop a mobile app.
 
 # Project description
 ## Motivation and objectives
