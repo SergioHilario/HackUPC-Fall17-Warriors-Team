@@ -35,7 +35,7 @@ public class AddWord extends AppCompatActivity {
             outputWriter.close();
 
             //display file saved message
-           //Toast.makeText(getBaseContext(), "Word saved successfully!", Toast.LENGTH_SHORT).show();
+           Toast.makeText(getBaseContext(), "Word saved successfully!", Toast.LENGTH_SHORT).show();
 
         }
         catch (Exception e) {
@@ -50,7 +50,7 @@ public class AddWord extends AppCompatActivity {
             outputWriter.close();
 
             //display file saved message
-            Toast.makeText(getBaseContext(), "Word saved to INDEX.TXT successfully!", Toast.LENGTH_SHORT).show();
+            //Toast.makeText(getBaseContext(), "Word saved to INDEX.TXT successfully!", Toast.LENGTH_SHORT).show();
 
         }
         catch (Exception e) {
